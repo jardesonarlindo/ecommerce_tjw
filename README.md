@@ -1,6 +1,8 @@
 # ecommerce_tjw
 Trabalho realizado para a cadeira de TJW
 
+Baixar e importar no ECLIPSE
+
 Ecommerce simples
 
 - Login: admin, Senha: admin
